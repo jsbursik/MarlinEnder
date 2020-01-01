@@ -1,4 +1,4 @@
-#Marlin 2.0.x for Ender 3
+# Marlin 2.0.x for Ender 3
 
 This is my Marlin firmware for my Ender 3 with a BLtouch added using [this mount.](https://www.thingiverse.com/thing:3584158)
 
