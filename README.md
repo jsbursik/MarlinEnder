@@ -15,4 +15,4 @@ I zeroed the Y axis and noticed the hotend sticks over the edge, so to zero the 
 I then zeroed the X-axis and moved it to the middle of the bed - using the posts underneath the bed to get it as close as possible and measured 115mm from zero which means 230 across.
 
 # Linear Advance
-I used the calibration pattern to figure out what my linear advance value should be, without refining it, I decided to just use 1.2 This could use more tweaking. **This will be different for every machine, so set it to zero and use the test patterns on the marlin website to figure this out**
+I used the calibration pattern to figure out what my linear advance value should be, without refining it, I decided to just use 0.56 This could use more tweaking. **This will be different for every machine, so set it to zero and use the test patterns on the marlin website to figure this out**
